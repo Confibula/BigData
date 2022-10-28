@@ -1,0 +1,10 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Abstract}{2}{}%
+\contentsline {section}{\numberline {2}Hovedkapittel}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Manipulation and Recruitment}{3}{}%
+\contentsline {subsection}{\numberline {2.2}The COVID-19 pandemic}{5}{}%
+\contentsline {subsection}{\numberline {2.3}How powerful is really more data for large corporations?}{6}{}%
+\contentsline {subsection}{\numberline {2.4}Governmental data collection, tracking and surveillance}{7}{}%
+\contentsline {subsection}{\numberline {2.5}DELKAPITTEL}{8}{}%
+\contentsline {section}{\numberline {3}Conclusion}{8}{}%
+\contentsline {section}{\numberline {4}References}{8}{}%

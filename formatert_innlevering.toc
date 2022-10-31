@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Abstract}{3}{}%
+\contentsline {section}{\numberline {2}Hovedkapittel}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Targeted advertisement on Facebook and affiliated sites}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Manipulation and recruitment via social media}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Governmental data collection, tracking and surveillance}{6}{}%
+\contentsline {subsection}{\numberline {2.4}Technology based tracking related to the COVID-19 pandemic}{7}{}%
+\contentsline {subsection}{\numberline {2.5}How powerful are bigger sets of data for large corporations?}{9}{}%
+\contentsline {subsection}{\numberline {2.6}Is surveillance and tracking moral according to Immanuel Kant's \\ moral philosophy?}{10}{}%
+\contentsline {section}{\numberline {3}Conclusion}{10}{}%
+\contentsline {section}{\numberline {4}References}{13}{}%
